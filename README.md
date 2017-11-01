@@ -1,6 +1,6 @@
 subspace-nn: neural network optimization in fewer dimensions
 =======
-Sam Greydanus. June 2017. MIT License.
+Sam Greydanus. October 2017. MIT License.
 
 _Written in PyTorch_
 
